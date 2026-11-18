@@ -1,6 +1,6 @@
 WebciteOn – Terms of Service
 
-Welcome to WebciteOn, a smart platform by GoodPegg designed to help you add items in your website and share website with your customers. These Terms of Service (“Terms”) outline your rights and responsibilities when using WebciteOn. By accessing our app and using any of its features, including subscriptions, you agree to be bound by these Terms. Please read them carefully.
+Welcome to WebciteOn, a smart platform by GoodPegg designed to help you add items on your website and share website with your customers. These Terms of Service (“Terms”) outline your rights and responsibilities when using WebciteOn. By accessing our app and using any of its features, including subscriptions, you agree to be bound by these Terms. Please read them carefully.
 
 Subscription Terms
 1.1 Subscription Services: WebciteOn offers an auto-renewable subscription at INR 99(10 items) and INR 269(30 items) per month.
